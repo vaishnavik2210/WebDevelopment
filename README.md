@@ -1,2 +1,3 @@
 # personal-portfolio
-this is a portofolio repository
+This is a personal portofolio for codsoft internship
+
