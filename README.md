@@ -100,7 +100,6 @@ This landing page is designed to:
 - **HTML5** – Semantic structure.
 - **CSS3** – Styling, layout, hover effects.
 - No external libraries or JavaScript used.
-
 ---
 
 
