@@ -1,3 +1,37 @@
+# 🧮 Basic Calculator Web App
+
+A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator performs basic arithmetic operations and is styled with a clean and intuitive user interface.
+
+---
+
+## 📌 Project Overview
+
+This calculator is designed to:
+
+- Provide a basic interface for performing calculations.
+- Offer a responsive design for desktop and mobile screens.
+- Demonstrate core front-end skills including DOM manipulation.
+
+---
+
+## ✨ Features
+
+- ✅ Perform basic operations: **Addition, Subtraction, Multiplication, Division**
+- ✅ **Clear (C)** button to reset the screen
+- ✅ **Del** button to delete the last digit
+- ✅ Responsive UI for various screen sizes
+- ✅ Error handling for invalid input or divide-by-zero
+
+---
+
+## 🔧 Technologies Used
+
+- **HTML5** – Markup structure
+- **CSS3** – Styling and layout
+- **JavaScript (Vanilla)** – Logic and interactivity
+
+---
+
 # 🍦 Ice Cream Shop Landing Page
 
 This is a clean and responsive landing page for an Ice Cream Shop built using **HTML** and **CSS**. The design is focused on visual appeal and user-friendly navigation to showcase the brand and menu.
@@ -67,43 +101,3 @@ This project aims to:
 - No frameworks or JavaScript used.
 
 ---
-# 🚀 Simple Responsive Landing Page
-
-A responsive and elegant landing page created using **HTML** and **CSS**. This project serves as a clean frontend template for personal, business, or product-based landing pages.
-
----
-
-## 📌 Project Overview
-
-This landing page is designed to:
-
-- Provide a modern interface for first impressions.
-- Highlight key offerings or personal branding.
-- Be fully responsive for all device sizes.
-- Maintain a consistent theme with structured layout.
-
----
-
-## ✨ Features
-
-- ✅ Full-screen **Hero Section** with introduction.
-- ✅ **Navigation Bar** with smooth scrolling.
-- ✅ **Call-to-Action Buttons** for user engagement.
-- ✅ Clean, minimalist **design and color palette**.
-- ✅ Responsive layout for mobile and desktop.
-- ✅ Footer with copyright.
-
----
-
-## 🔧 Technologies Used
-
-- **HTML5** – Semantic structure.
-- **CSS3** – Styling, layout, hover effects.
-- No external libraries or JavaScript used.
----
-
-
-
-
-
-
